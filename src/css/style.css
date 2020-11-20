@@ -1,0 +1,10 @@
+#code {
+    width: 50%;
+    margin: auto;
+    height: 600px;
+}
+
+.container-fluid {
+    text-align: center;
+    padding-top: 100px;
+}
